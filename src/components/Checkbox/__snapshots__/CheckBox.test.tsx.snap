@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CheckBox /> should renders component correctly 1`] = `
+<div>
+  <div>
+    <input
+      id="USA"
+      name="USA"
+      type="checkbox"
+      value="1"
+    />
+    <label
+      for="USA"
+    >
+      USA
+    </label>
+  </div>
+</div>
+`;

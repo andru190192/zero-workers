@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> renders component correctly 1`] = `
+<div>
+  <div>
+    <label>
+      <input
+        type="checkbox"
+      />
+      Select All
+    </label>
+    <br />
+    <div>
+      <input
+        id="India"
+        name="India"
+        type="checkbox"
+        value="1"
+      />
+      <label
+        for="India"
+      >
+        India
+      </label>
+    </div>
+    <div>
+      <input
+        id="USA"
+        name="USA"
+        type="checkbox"
+        value="2"
+      />
+      <label
+        for="USA"
+      >
+        USA
+      </label>
+    </div>
+    <div>
+      <input
+        id="France"
+        name="France"
+        type="checkbox"
+        value="3"
+      />
+      <label
+        for="France"
+      >
+        France
+      </label>
+    </div>
+  </div>
+</div>
+`;
